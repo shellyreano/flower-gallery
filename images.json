@@ -14,7 +14,7 @@
   {
     "id": 3,
     "name": "Sunflower",
-    "desc": "Follows the warmth of the sun.",
+    "desc": "Drawn to the sun.",
     "image": "https://cdn.pixabay.com/photo/2023/10/30/05/19/sunflowers-8351807_1280.jpg"
   },
   {
@@ -110,7 +110,7 @@
   {
     "id": 19,
     "name": "Camellia",
-    "desc": "Soft petals with gentle elegance.",
+    "desc": "Soft petals with elegance.",
     "image": "https://cdn.pixabay.com/photo/2020/03/13/13/09/camellia-flower-4927917_1280.jpg"
   },
   {
